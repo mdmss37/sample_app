@@ -39,3 +39,10 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](http://www.railstutorial.org/book).
+
+Reference
++ http://shindolog.hatenablog.com/entry/2014/09/01/013840
++ http://blackswan.hateblo.jp/entry/2017/01/24/003447
++ https://stackoverflow.com/questions/38331496/rails-5-actioncontrollerinvalidauthenticitytoken-error
+
+
