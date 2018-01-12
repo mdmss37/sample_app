@@ -57,9 +57,9 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
 + https://qiita.com/norifumi/items/3009a31c4ed23f97c336
 + http://shimx.hateblo.jp/entry/2016/07/26/014408
 * noopener
-+ https://qiita.com/memolog/items/9913b0067e4e6883ed17
+  + https://qiita.com/memolog/items/9913b0067e4e6883ed17
 * SMTP
-https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
-
-
+  + https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+* Exercise
+  + http://mochikichi.hatenablog.com/entry/rails_tutorial_guide
 
