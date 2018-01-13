@@ -86,6 +86,7 @@ class PasswordResetsTest < ActionDispatch::IntegrationTest
     follow_redirect!
     assert_match /expired/i, response.body
   end
+  
 end
 
 
