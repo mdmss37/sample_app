@@ -63,11 +63,11 @@ class PasswordResetsTest < ActionDispatch::IntegrationTest
     # 12.3.3.3, check user reset_digest is nil when successful password update
     user.reload # reload user
     assert is_logged_in?
-    assert_equal nil, user.reset_digest # check reset_digest is nil
+    assert_nil user.reset_digest # check reset_digest is nil
     assert_not flash.empty?
     assert_redirected_to user
   end
-  
+
   test "expired token" do
     get new_password_reset_path
     post password_resets_path,
