@@ -62,4 +62,6 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
   + https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 * Exercise
   + http://mochikichi.hatenablog.com/entry/rails_tutorial_guide
+* helper in console does not work
+  + https://github.com/rweng/pry-rails/issues/9
 
