@@ -65,4 +65,19 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
 * helper in console does not work
   + https://github.com/rweng/pry-rails/issues/9
 * SQL injection
- + https://en.wikipedia.org/wiki/SQL_injection
+  + https://en.wikipedia.org/wiki/SQL_injection
+* Guard
+  + https://github.com/guard/guard
+* NameError: uninitialized constant Micropost::PictureUploader
+  https://qiita.com/yokoyan/items/0f82fc3eede75cd6db55
+* Spring
+  + https://github.com/rails/spring 
+  + https://qiita.com/NRintaro/items/937d9fa3e98eaa498ff6
+
+
+
+
+
+
+
+  
