@@ -74,10 +74,11 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
   + https://github.com/rails/spring 
   + https://qiita.com/NRintaro/items/937d9fa3e98eaa498ff6
 
+* AWS S3
+  + https://qiita.com/ryuchan00/items/8e414562b7122e7ec4fb
 
 
 
 
 
 
-  
