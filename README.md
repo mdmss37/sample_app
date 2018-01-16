@@ -76,7 +76,10 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
 
 * AWS S3
   + https://qiita.com/ryuchan00/items/8e414562b7122e7ec4fb
-
+* Deploy to production with ENV variable
+ + https://github.com/laserlemon/figaro
+* binstubs
+ + https://techracho.bpsinc.jp/hachi8833/2016_08_24/25037
 
 
 
