@@ -73,14 +73,32 @@ Solved by update rbenv to 2.4.1(changed to 2.0.0 with some reason???)
 * Spring
   + https://github.com/rails/spring 
   + https://qiita.com/NRintaro/items/937d9fa3e98eaa498ff6
-
-* AWS S3
-  + https://qiita.com/ryuchan00/items/8e414562b7122e7ec4fb
+  
 * Deploy to production with ENV variable
- + https://github.com/laserlemon/figaro
+heroku-missing-required-arguments-aws-access-key-id-aws-secret-access-key-f
+
 * binstubs
  + https://techracho.bpsinc.jp/hachi8833/2016_08_24/25037
 
+* Image upload with AWS S3
+  + https://qiita.com/ryuchan00/items/8e414562b7122e7ec4fb
+  + https://github.com/laserlemon/figaro
+  + https://stackoverflow.com/questions/27949158/
+  + https://www.skyarch.net/blog/?p=8798
+  + https://qiita.com/ryuchan00/items/8e414562b7122e7ec4fb
+  + https://qiita.com/kawaz/items/07d67a851fd49c1c183e
+  + https://qiita.com/shunwitter/items/162db753db5f12cb2ac3
+  + http://fujiyasu.hatenablog.com/entry/2016/05/29/143742
+  + https://stackoverflow.com/questions/41663925/missing-required-arguments-aws-access-key-id-aws-secret-access-key-in-server
+  + https://github.com/laserlemon/figaro
+  + https://12factor.net/
+  + https://stackoverflow.com/questions/41663925/missing-required-arguments-aws-access-key-id-aws-secret-access-key-in-server
+  + https://github.com/laserlemon/figaro
+  + https://github.com/fog/fog
+  + https://qiita.com/onoxeve/items/c4b4cb3b77ddc775d129
+  + https://qiita.com/junara/items/1899f23c091bcee3b058
+  + http://morizyun.github.io/ruby/rails-function-form-carrierwave-fog-s3.html
+  + https://qiita.com/msyk_tym/items/7d1c8e3666c11741d2de
 
 
 
