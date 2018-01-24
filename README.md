@@ -100,6 +100,9 @@ heroku-missing-required-arguments-aws-access-key-id-aws-secret-access-key-f
   + http://morizyun.github.io/ruby/rails-function-form-carrierwave-fog-s3.html
   + https://qiita.com/msyk_tym/items/7d1c8e3666c11741d2de
 
-
+* erb tag shortcut within js.erb file
+ + https://github.com/matthewrobertson/ERB-Sublime-Snippets/issues/13
+ + https://nelog.jp/how-to-set-sublime-text-snippet
+ + https://github.com/matthewrobertson/ERB-Sublime-Snippets
 
 
